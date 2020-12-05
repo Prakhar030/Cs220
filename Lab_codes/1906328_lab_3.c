@@ -82,6 +82,7 @@ int writetofile2(struct phone_direc Phone_direc){
 	fclose(fp);
 	
 	
+	
 }
 //////////////////////////////////////////////////////////////////function for reading from file
 struct phone_direc* readfromfile(FILE *fp){
