@@ -68,6 +68,7 @@ float q=0;//VARIABLE FOR FINAL ANSWER
 printf("\tPrakhar's Calculator\n");
 printf("\n -----------------------------------\n");
 //###########################################FOR THE FIRST INPUT ENTRY AND INTERPRETATION.
+	
 printf("\nEnter the first number:");
 z=testinput();
 n=b;
