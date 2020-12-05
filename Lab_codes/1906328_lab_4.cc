@@ -31,6 +31,7 @@ cir_list::~cir_list() {//deletes all the memory allocated to the node pointersby
 	class node* init = start;
 	while(iter != init){
 		
+		
 		class node* iterer = iter->next;
 		delete iter;
 		iter =iterer;
