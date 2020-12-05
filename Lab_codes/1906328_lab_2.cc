@@ -41,3 +41,4 @@ printf("Enter subset size:");
 int r=getchar()-'0';
 printsubset(arr,k,r);
 }
+
